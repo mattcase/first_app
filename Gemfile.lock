@@ -103,7 +103,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  coffee-rails (= 3.2.2)
+  coffee-rails (~> 3.2.2)
   jquery-rails (= 2.0.2)
   rails (= 3.2.8)
   sass-rails (= 3.2.5)
